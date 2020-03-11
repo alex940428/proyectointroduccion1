@@ -35,3 +35,33 @@ text-align: justify;
     text-align: center;
     color: antiquewhite;
 }
+
+.header3{
+    font-weight: bold;
+    color: blue;
+}
+
+.vuelosinmotor{
+    font-weight: bold;
+    color: blue;
+}
+
+.texto1{
+    font-style: italic;
+    font-family: papyrus;
+    text-align: left;
+    color: darkblue;
+}
+
+.texto2{
+    font-style: italic;
+    font-family: papyrus;
+    color: darkblue;
+    text-align: justify;
+}
+
+.footerpag2{
+    background-color: grey;
+    text-align: center;
+    color: antiquewhite;
+}
